@@ -1,5 +1,3 @@
-# Neural Network Layer Plots
-
 ![Layer 0 Plots](plots/mlp_col_norm_70m-0.png)
 
 ![Layer 1 Plots](plots/mlp_col_norm_70m-1.png)
