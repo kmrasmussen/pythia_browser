@@ -58,6 +58,30 @@
 
 ![Layer 11 Plots](plots/mlp_token_act_frac_410m-11.png)
 
+![Layer 12 Plots](plots/mlp_token_act_frac_410m-12.png)
+
+![Layer 13 Plots](plots/mlp_token_act_frac_410m-13.png)
+
+![Layer 14 Plots](plots/mlp_token_act_frac_410m-14.png)
+
+![Layer 15 Plots](plots/mlp_token_act_frac_410m-15.png)
+
+![Layer 16 Plots](plots/mlp_token_act_frac_410m-16.png)
+
+![Layer 17 Plots](plots/mlp_token_act_frac_410m-17.png)
+
+![Layer 18 Plots](plots/mlp_token_act_frac_410m-18.png)
+
+![Layer 19 Plots](plots/mlp_token_act_frac_410m-19.png)
+
+![Layer 20 Plots](plots/mlp_token_act_frac_410m-20.png)
+
+![Layer 21 Plots](plots/mlp_token_act_frac_410m-21.png)
+
+![Layer 22 Plots](plots/mlp_token_act_frac_410m-22.png)
+
+![Layer 23 Plots](plots/mlp_token_act_frac_410m-23.png)
+
 ![Layer 0 Plots](plots/mlp_token_act_frac_1b-0.png)
 
 ![Layer 1 Plots](plots/mlp_token_act_frac_1b-1.png)
@@ -89,20 +113,4 @@
 ![Layer 14 Plots](plots/mlp_token_act_frac_1b-14.png)
 
 ![Layer 15 Plots](plots/mlp_token_act_frac_1b-15.png)
-
-![Layer 16 Plots](plots/mlp_token_act_frac_1b-16.png)
-
-![Layer 17 Plots](plots/mlp_token_act_frac_1b-17.png)
-
-![Layer 18 Plots](plots/mlp_token_act_frac_1b-18.png)
-
-![Layer 19 Plots](plots/mlp_token_act_frac_1b-19.png)
-
-![Layer 20 Plots](plots/mlp_token_act_frac_1b-20.png)
-
-![Layer 21 Plots](plots/mlp_token_act_frac_1b-21.png)
-
-![Layer 22 Plots](plots/mlp_token_act_frac_1b-22.png)
-
-![Layer 23 Plots](plots/mlp_token_act_frac_1b-23.png)
 
